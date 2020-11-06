@@ -1,0 +1,17 @@
+CodeSha256: nwbgEyhz89zb4j54T2aj/QjD4ZPBWSO5s2/qEYkjh1E=
+CodeSize: 328
+Description: ''
+FunctionArn: arn:aws:lambda:eu-west-3:987980092179:function:my-function
+FunctionName: my-function
+Handler: index.handler
+LastModified: 2020-11-06T14:36:48.260+0000
+LastUpdateStatus: Successful
+MemorySize: 128
+RevisionId: 567dc4de-a493-4cb7-91a6-f40996abaf47
+Role: arn:aws:iam::987980092179:role/lambda-ex
+Runtime: nodejs12.x
+State: Active
+Timeout: 3
+TracingConfig:
+  Mode: PassThrough
+Version: $LATEST

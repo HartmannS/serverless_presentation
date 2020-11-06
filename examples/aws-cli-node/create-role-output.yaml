@@ -1,0 +1,13 @@
+Role:
+  Arn: arn:aws:iam::987980092179:role/lambda-ex
+  AssumeRolePolicyDocument:
+    Statement:
+      - Action: sts:AssumeRole
+        Effect: Allow
+        Principal:
+          Service: lambda.amazonaws.com
+    Version: '2012-10-17'
+  CreateDate: '2020-11-06T14:05:42+00:00'
+  Path: /
+  RoleId: AROA6MCBT2MJUPSD4EF7Z
+  RoleName: lambda-ex
