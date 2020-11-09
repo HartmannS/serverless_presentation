@@ -1,0 +1,17 @@
+CodeSha256: wjBdhmPEL/l9thQ39EJq55zXTaucQZgL623C5ZnjmOQ=
+CodeSize: 4797365
+Description: ''
+FunctionArn: arn:aws:lambda:eu-west-3:987980092179:function:my-function-go
+FunctionName: my-function-go
+Handler: main
+LastModified: 2020-11-09T06:58:44.424+0000
+LastUpdateStatus: Successful
+MemorySize: 128
+RevisionId: 5b2113d2-7c57-445d-bf12-4e526a043b1d
+Role: arn:aws:iam::987980092179:role/lambda-ex-go
+Runtime: go1.x
+State: Active
+Timeout: 3
+TracingConfig:
+  Mode: PassThrough
+Version: $LATEST
